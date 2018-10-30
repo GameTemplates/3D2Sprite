@@ -1,0 +1,8 @@
+This folder is used to load FPS Creator levels in to 3D2Sprite.
+The level need to be converted to .OBJ and .JPG format.
+You can use FPSC-2-AGK to easily convert it.
+
+Place all the files in to this folder. 
+For your convenience, you can set FPSC-2-AGK to export all the files directly in to this folder.
+
+For more info on FPSC Levels, read the help document.

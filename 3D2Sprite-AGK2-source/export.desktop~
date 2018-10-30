@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=0.7.5
+Name=export
+Comment= Open export directory
+Exec=bash -c 'nautilus /home/$USER/.config/AGKApps/3D2Sprite/export/'
+Icon=nautilus
+Terminal=true
+Type=Application
+Categories=Application;
